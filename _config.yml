@@ -1,0 +1,28 @@
+name: Scott A. Warner DDS
+favicon: null
+layout_spectrum: 0.6686765947379172
+typography_spectrum: 0.28561448003165424
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8046282390132546
+  lightness: 0.4937358978204429
+  saturation: 0.14871062524616718
+  rhythmicContrast: 0.14093352784402668
+purpose: []
